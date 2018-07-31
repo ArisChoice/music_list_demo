@@ -1,4 +1,4 @@
-**Demo List Player**
+**Music List Player**
 
 **Level:** Beginner
 
